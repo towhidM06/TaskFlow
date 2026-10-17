@@ -42,7 +42,7 @@ TaskFlow/
 
 ## Author
 
-M Sohan
+Mohammed Towhidul Islam Sohan
 
 ## License
 
